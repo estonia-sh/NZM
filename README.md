@@ -10,3 +10,8 @@
 - 国内仓库下载地址：https://gitee.com/estonia/nzm.git
 
 - GitHub仓库地址：https://github.com/estonia-sh/NZM.git
+
+**注：**
+
+- 逆战刀喷.exe 只能用于鼠标侧键触发，适合任意鼠标
+- 逆战.exe 是本人自用的，多了F9和F10触发的自动开火和自动奔跑，F9和F10绑定的是罗技鼠标的其他按键。
